@@ -1,0 +1,288 @@
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.csproj.AssemblyReference.cache
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.Properties.Resources.resources
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.tela_2.resources
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.csproj.GenerateResource.cache
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfoInputs.cache
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfo.cs
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.csproj.CoreCompileInputs.cache
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\telas.exe
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\telas.deps.json
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\telas.runtimeconfig.json
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\CADU\Downloads\telas\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.csproj.Up2Date
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\refint\telas.dll
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\telas.genruntimeconfig.cache
+C:\Users\CADU\Downloads\telas\telas\telas\obj\Debug\net8.0-windows\ref\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\telas.exe
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\telas.deps.json
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\telas.runtimeconfig.json
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.csproj.AssemblyReference.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.Properties.Resources.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.tela_2.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.csproj.GenerateResource.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfoInputs.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfo.cs
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.csproj.CoreCompileInputs.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.csproj.Up2Date
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\refint\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.genruntimeconfig.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\ref\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohprodutos.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohrevisao.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.Cadastromotocs.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.Informacoeshoficina.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_Extra.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_C.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.exe
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.deps.json
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.runtimeconfig.json
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.pdb
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohprodutos.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohrevisao.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastromotocs.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_C.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_Extra.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Informacoeshoficina.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.tela_2.resources
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.Up2Date
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\refint\telas.dll
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.pdb
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\ref\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.AssemblyReference.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohprodutos.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohrevisao.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastromotocs.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_C.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_Extra.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Properties.Resources.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.GenerateResource.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfoInputs.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfo.cs
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.CoreCompileInputs.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.exe
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.deps.json
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.runtimeconfig.json
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.Up2Date
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\refint\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.genruntimeconfig.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\ref\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.loginoficina.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\prejeto tecnico final\Projeto oficina dia 16-08-2024\Telas_Completa 1208\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.relatoriogeral.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.exe
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.deps.json
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.runtimeconfig.json
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.AssemblyReference.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohprodutos.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohrevisao.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastromotocs.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_C.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_Extra.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.loginoficina.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Properties.Resources.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.relatoriogeral.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.GenerateResource.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfoInputs.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfo.cs
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.CoreCompileInputs.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.sourcelink.json
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.Up2Date
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\refint\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.genruntimeconfig.cache
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\ref\telas.dll
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.login.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.tela_senha_para_cadastro.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.relatorio.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.servicospendetes.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.menu_oficina.resources
+C:\Users\CADU\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\Documents\GitHub\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.sobrenos.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohprodutos.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohrevisao.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastromotocs.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_C.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_Extra.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.login.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.loginoficina.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.menu_oficina.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.relatorio.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.relatoriogeral.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.servicospendetes.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.sobrenos.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.tela_senha_para_cadastro.resources
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.sourcelink.json
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\refint\telas.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.pdb
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.exe
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.deps.json
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.runtimeconfig.json
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.pdb
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.Up2Date
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\ref\telas.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.exe
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.deps.json
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.runtimeconfig.json
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.AssemblyReference.cache
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohprodutos.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastrohrevisao.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastromotocs.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_C.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Cadastro_Tela_2_Extra.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.login.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.loginoficina.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.menu_oficina.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.Properties.Resources.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.relatorio.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.relatoriogeral.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.servicospendetes.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.sobrenos.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.tela_senha_para_cadastro.resources
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.GenerateResource.cache
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfoInputs.cache
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.AssemblyInfo.cs
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.CoreCompileInputs.cache
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.sourcelink.json
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.csproj.Up2Date
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\refint\telas.dll
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.pdb
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\telas.genruntimeconfig.cache
+C:\Users\CADU\Source\Repos\Oficina-Motos-\Telas_Completa\telas\telas\obj\Debug\net8.0-windows\ref\telas.dll

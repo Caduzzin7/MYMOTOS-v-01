@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cadastrohprodutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastrohrevisao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastromotocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastro_Tela_2_Extra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastro_Tela_2_C.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginoficina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu oficina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="relatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="relatoriogeral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="servicospendetes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sobrenos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tela senha para cadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
