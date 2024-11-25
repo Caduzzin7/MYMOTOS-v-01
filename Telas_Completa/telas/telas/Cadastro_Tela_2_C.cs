@@ -134,9 +134,7 @@ namespace telas
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Hide();
-            menu_oficina oficina = new menu_oficina();
-            oficina.ShowDialog();
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -219,6 +217,13 @@ namespace telas
         private void txtsenha_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Hide();
+            menu_oficina biluteteia = new menu_oficina();
+            biluteteia.ShowDialog();
         }
     }
 }

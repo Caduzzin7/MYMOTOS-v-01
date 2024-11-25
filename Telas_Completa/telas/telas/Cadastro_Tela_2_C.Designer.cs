@@ -48,6 +48,7 @@
             txtsenha = new TextBox();
             label8 = new Label();
             btnlogin = new Button();
+            button6 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -247,12 +248,24 @@
             btnlogin.UseVisualStyleBackColor = true;
             btnlogin.Click += btnlogin_Click;
             // 
+            // button6
+            // 
+            button6.Font = new Font("Segoe UI", 12F);
+            button6.Location = new Point(58, 591);
+            button6.Name = "button6";
+            button6.Size = new Size(149, 46);
+            button6.TabIndex = 22;
+            button6.Text = "voltar menu";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
+            // 
             // Cadastro_Tela_2_C
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Cornsilk;
             ClientSize = new Size(1333, 649);
+            Controls.Add(button6);
             Controls.Add(btnlogin);
             Controls.Add(txtsenha);
             Controls.Add(label8);
@@ -303,5 +316,6 @@
         private TextBox txtsenha;
         private Label label8;
         private Button btnlogin;
+        private Button button6;
     }
 }
