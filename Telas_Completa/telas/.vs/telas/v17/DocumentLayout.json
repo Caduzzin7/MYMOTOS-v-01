@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1B4CF07-C2C1-4CD5-900E-2EF0786DF019}|telas\\telas.csproj|c:\\users\\cadu\\onedrive - fiep - federacao das industrias do estado do parana\\documents\\github\\mymotos-v-01\\telas_completa\\telas\\telas\\cadastro_tela_2_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1B4CF07-C2C1-4CD5-900E-2EF0786DF019}|telas\\telas.csproj|solutionrelative:telas\\cadastro_tela_2_c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D1B4CF07-C2C1-4CD5-900E-2EF0786DF019}|telas\\telas.csproj|c:\\users\\cadu\\onedrive - fiep - federacao das industrias do estado do parana\\documents\\github\\mymotos-v-01\\telas_completa\\telas\\telas\\menu oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1B4CF07-C2C1-4CD5-900E-2EF0786DF019}|telas\\telas.csproj|solutionrelative:telas\\menu oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cadastro_Tela_2_C.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\telas\\Cadastro_Tela_2_C.cs",
-              "RelativeDocumentMoniker": "telas\\Cadastro_Tela_2_C.cs",
-              "ToolTip": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\telas\\Cadastro_Tela_2_C.cs [Projeto]",
-              "RelativeToolTip": "telas\\Cadastro_Tela_2_C.cs [Projeto]",
+              "Title": "menu oficina.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\telas\\menu oficina.cs",
+              "RelativeDocumentMoniker": "telas\\menu oficina.cs",
+              "ToolTip": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\telas\\menu oficina.cs [Projeto]",
+              "RelativeToolTip": "telas\\menu oficina.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T22:28:34.421Z",
+              "WhenOpened": "2024-11-25T15:30:56.354Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
