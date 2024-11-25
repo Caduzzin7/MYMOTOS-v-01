@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZqHJEmUXR8ICiGc8NRoyPoqjKFaYIWRUmcxPoKIOj7PlTwpXocXQDfcikwo1L6P2iu7iOYVltTh6+98T8TBdQ==",
+  "dgSpecHash": "sHFSzd9fiQshOzzJyXXeOw8UDn21QVxl017s0b4wCSKakC0j9DVO2QdQAEmyVmOyhyEIEy8ZR9QUVZ0Wy8oWEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CADU\\source\\repos\\Oficina-Motos-\\Telas_Completa\\telas\\telas\\telas.csproj",
+  "projectFilePath": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\telas\\telas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CADU\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\CADU\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

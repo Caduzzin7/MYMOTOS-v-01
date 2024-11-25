@@ -33,6 +33,7 @@
             button2 = new Button();
             flowLayoutPanel1 = new FlowLayoutPanel();
             label2 = new Label();
+            button1 = new Button();
             flowLayoutPanel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -81,12 +82,25 @@
             label2.Text = resources.GetString("label2.Text");
             label2.Click += label2_Click_1;
             // 
+            // button1
+            // 
+            button1.BackColor = Color.FloralWhite;
+            button1.Font = new Font("Segoe UI", 18F);
+            button1.Location = new Point(26, 576);
+            button1.Name = "button1";
+            button1.Size = new Size(209, 61);
+            button1.TabIndex = 45;
+            button1.Text = "Voltar Menu";
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
             // sobrenos
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Imagem_moto_1234;
             ClientSize = new Size(1333, 649);
+            Controls.Add(button1);
             Controls.Add(flowLayoutPanel1);
             Controls.Add(button2);
             Controls.Add(label8);
@@ -105,5 +119,6 @@
         private Button button2;
         private FlowLayoutPanel flowLayoutPanel1;
         private Label label2;
+        private Button button1;
     }
 }

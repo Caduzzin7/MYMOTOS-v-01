@@ -1613,11 +1613,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CADU\\Source\\Repos\\Oficina-Motos-\\Telas_Completa\\telas\\telas\\telas.csproj",
+      "projectUniqueName": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\telas\\telas.csproj",
       "projectName": "telas",
-      "projectPath": "C:\\Users\\CADU\\Source\\Repos\\Oficina-Motos-\\Telas_Completa\\telas\\telas\\telas.csproj",
+      "projectPath": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\telas\\telas.csproj",
       "packagesPath": "C:\\Users\\CADU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CADU\\Source\\Repos\\Oficina-Motos-\\Telas_Completa\\telas\\telas\\obj\\",
+      "outputPath": "C:\\Users\\CADU\\OneDrive - FIEP - Federacao das Industrias do Estado do Parana\\Documents\\GitHub\\MYMOTOS-v-01\\Telas_Completa\\telas\\telas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

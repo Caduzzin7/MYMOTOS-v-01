@@ -53,5 +53,12 @@ namespace telas
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Hide();
+            menu_oficina oficina = new menu_oficina();
+            oficina.ShowDialog();
+        }
     }
 }
